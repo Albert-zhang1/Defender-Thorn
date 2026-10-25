@@ -2,10 +2,6 @@
 
 Built while following a Unity tutorial to learn rotating defense mechanics.
 
-## Play it
-
-[Playable build on itch.io](https://tryh4rdz.itch.io/defender-thorn)
-
 ## What I built
 
 - Rotation-based defense — rotate to protect against incoming enemies
